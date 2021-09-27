@@ -2,7 +2,7 @@
 
 # Todo List - Jose Abel Ramirez Frontany
 
-ToDo's Tasks App where you can add a todo, edit the todo by clicking on it, change the completed property of the todo object from false to true by checking the checkbox and a line-through CSS property will be display on the description of the todo, and finally can delete one particular todo by clicking the delete trashcan icon when in edit mode and also delete all completed todo's by clicking the 'clear all completed' button at the bottom. All changes are saved on the local storage browser API.
+ToDo's Tasks App where you can add a todo, edit the todo by clicking on it, change the completed property of the todo object from false to true by checking the checkbox and a line-through CSS property will be display on the description of the todo, and finally can delete one particular todo by clicking the delete trashcan icon when in edit mode and also delete all completed todo's by clicking the 'clear all completed' button at the bottom. All changes are saved on the localhost browser storage.
 
 ![screenshot](./app_screenshot.png)
 
@@ -44,7 +44,9 @@ To start the webpack-dev-server, run the following command:
 
 ### Live Demo Server
 
-- [live-version](https://jose-abel-todo-app.netlify.app/)
+- [live-version with github pages](https://jose-abel.github.io/todo-list/)
+
+
 
 ### Tests
 
